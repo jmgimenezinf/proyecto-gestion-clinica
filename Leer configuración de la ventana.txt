@@ -1,0 +1,20 @@
+1 - Clik secundario en la ventana principal
+2 - Propiedades.
+3 - Pestaña Diseño :
+
+Tamaño del buffer de pantalla 
+Ancho: 99.
+Alto: 106.
+
+Tamaño de la ventana
+Ancho:99.
+Alto: 24.
+
+4-Pestaña Fuente:
+
+Tamaño :24
+Click en Negrita.
+Fuente :Consolas.
+
+5 - Listo para usar el programa.
+Gracias por leer la configuración de ventana.
